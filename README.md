@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/vaishnavibarge1" target="blank"><img src="https://img.shields.io/twitter/follow/vaishnavibarge1?logo=twitter&style=for-the-badge" alt="vaishnavibarge1" /></a> </p>
 
-- 🔭 I’m currently working as [Android Intern](@ SmartBridge)
-
 - 🌱 I’m currently learning **Android and Flutter**
 
 - 📝 I write articles related to Android Development on [https://medium.com/@vaishnavibarge2510](https://medium.com/@vaishnavibarge2510)
