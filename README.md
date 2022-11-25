@@ -1,3 +1,4 @@
+![logo](https://github.com/25Vaishnavibarge17/25Vaishnavibarge17/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Vaishnavi Barge</h1>
 <h3 align="center">A passionate Android developer</h3>
 
