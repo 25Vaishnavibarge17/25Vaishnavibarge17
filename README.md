@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Android developer</h3>
 
 <p align="left"> <img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" height="100" width="150" alt="25vaishnavibarge17" /> </p>
-
+![Visitor Count](https://profile-counter.glitch.me/25Vaishnavibarge17/count.svg)
 <p align="left"> <a href="https://twitter.com/vaishnavibarge1" target="blank"><img src="https://img.shields.io/twitter/follow/vaishnavibarge1?logo=twitter&style=for-the-badge" alt="vaishnavibarge1" /></a> </p>
 
 - 🌱 I’m currently learning **Android and Flutter**
