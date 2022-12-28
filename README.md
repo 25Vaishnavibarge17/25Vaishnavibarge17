@@ -1,4 +1,5 @@
-![logo](https://github.com/25Vaishnavibarge17/25Vaishnavibarge17/blob/main/Github%20banner.png)
+![Githubbanner2](https://user-images.githubusercontent.com/89184566/209873916-db4c003e-bf3e-49ec-bbee-f75096e57406.png)
+
 # ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[Vaishnavi Barge](https://github.com/25Vaishnavibarge17) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 <h1 align="center">Hi 👋, I'm Vaishnavi Barge</h1>
 <h3 align="center">A passionate Android developer</h3>
