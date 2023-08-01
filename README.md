@@ -1,19 +1,17 @@
 ![Githubbanner2](https://user-images.githubusercontent.com/89184566/209873916-db4c003e-bf3e-49ec-bbee-f75096e57406.png)
 
-# ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[Vaishnavi Barge](https://github.com/25Vaishnavibarge17) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 <h1 align="center">Hi 👋, I'm Vaishnavi Barge</h1>
-<h3 align="center">A passionate Android developer</h3>
+<h3 align="center">A passionate Flutter Developer</h3>
 
-<p align="left"> <img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" height="100" width="150" alt="25vaishnavibarge17" /> </p>
-<p align="left"> <a href="https://twitter.com/vaishnavibarge1" target="blank"><img src="https://img.shields.io/twitter/follow/vaishnavibarge1?logo=twitter&style=for-the-badge" alt="vaishnavibarge1" /></a> </p>
+<p align="right"> <img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" height="100" width="150" alt="25vaishnavibarge17" /> </p>
 
-- 🌱 I’m currently learning **Android and Flutter**
+- 🌱 I’m currently learning **Flutter and Firebase**
 
-- 📝 I write articles related to Android Development on [https://medium.com/@vaishnavibarge2510](https://medium.com/@vaishnavibarge2510)
+- 📝 I sometimes write articles related to Flutter and Mobile Development on [https://medium.com/@vaishnavibarge2510](https://medium.com/@vaishnavibarge2510)
 
 - 📫 How to reach me **https://www.linkedin.com/in/vaishnavi-barge-65b77b212/**
 
-- ⚡ Fun fact **I love to eat and cook 👩‍🍳**
+- ⚡ Fun fact **I love to take pictures **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
