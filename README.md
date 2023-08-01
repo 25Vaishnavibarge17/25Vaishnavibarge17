@@ -1,4 +1,4 @@
-![Githubbanner2](https://user-images.githubusercontent.com/89184566/209873916-db4c003e-bf3e-49ec-bbee-f75096e57406.png)
+![Github banner](https://github.com/25Vaishnavibarge17/25Vaishnavibarge17/assets/89184566/372a38fc-9bbb-47f4-88bc-298566391e68)
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Barge</h1>
 <h3 align="center">A passionate Flutter Developer</h3>
