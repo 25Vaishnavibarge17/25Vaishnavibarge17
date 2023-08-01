@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Barge</h1>
 <h3 align="center">A passionate Flutter Developer</h3>
 <div>
-<p align="right"> <img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" height="100" width="150" alt="25vaishnavibarge17" /> </p>
+<p align="center"> <img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" height="100" width="150" alt="25vaishnavibarge17" /> </p>
 
 - 🌱 I’m currently learning **Flutter and Firebase**
 
