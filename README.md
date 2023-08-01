@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Barge</h1>
 <h3 align="center">A passionate Flutter Developer</h3>
-
+<div>
 <p align="right"> <img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" height="100" width="150" alt="25vaishnavibarge17" /> </p>
 
 - 🌱 I’m currently learning **Flutter and Firebase**
@@ -11,8 +11,8 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/vaishnavi-barge-65b77b212/**
 
-- ⚡ Fun fact **I love to take pictures **
-
+- ⚡ Fun fact **I love to take pictures**
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vaishnavibarge1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaishnavibarge1" height="30" width="40" /></a>
