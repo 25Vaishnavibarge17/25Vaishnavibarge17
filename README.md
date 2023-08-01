@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Flutter and Firebase**
 
-- 📝 I sometimes write articles related to Flutter and Mobile Development on [https://medium.com/@vaishnavibarge2510](https://medium.com/@vaishnavibarge2510)
+- 📝 I sometimes write articles related to Flutter and Mobile App Development on [https://medium.com/@vaishnavibarge2510](https://medium.com/@vaishnavibarge2510)
 
 - 📫 How to reach me **https://www.linkedin.com/in/vaishnavi-barge-65b77b212/**
 
-- ⚡ Fun fact **I love to take pictures**
+- ⚡ Fun fact **I love to click pictures📸**
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
